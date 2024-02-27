@@ -1,6 +1,6 @@
-# test_deploy_vue3
+# tz_quick_deal_lou
 
-## Project setup
+## tz_quick_deal_lou
 
 ```
 npm install
@@ -25,5 +25,3 @@ npm run lint
 ```
 
 ### Customize configuration
-
-Бляаа!!! Какое же счастье, что я разобралась, сук...

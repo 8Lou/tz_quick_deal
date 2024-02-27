@@ -1,8 +1,8 @@
 {
-  "name": "test_deploy_vue3",
+  "name": "tz_quick_deal",
   "version": "1.0.0",
   "private": true,
-  "homepage": "/https://8lou.github.io/test_deploy_vue3",
+  "homepage": "/https://8lou.github.io/tz_quick_deal",
   "description": "",
   "author": "",
   "scripts": {
@@ -47,7 +47,7 @@
     "not dead",
     "not ie 11"
   ],
-  "_id": "test_deploy_vue3@1.0.0",
+  "_id": "tz_quick_deal@1.0.0",
   "license": "ISC",
   "readme": "ERROR: No README data found!"
 }
